@@ -5,34 +5,32 @@ This is a Basic Approach for Designing the Backend of a Mangement System. You ne
 ## About 
 
 There are 2 modes of login when you run the Project.
-1.) Patient Login
-2.) Administrator Login
+<ol>
+<li>Patient Login</li>
+<li>Administrator Login</li>
 
 ## Patient Login
 
 As a Patient You can perform the following Tasks :- 
-
-1.) Book Appointment
-
-2.) Check Appointment
-
-3.) Search for Id
+<ol>
+<li>Book Appointment</li>
+<li>Check Appointment</li>
+<li>Search for Id</li>
+</ol>
 
 ## Administrator Login
 
-As an Administrator You can perform thw following Tasks:- 
+As an Administrator You can perform the following Tasks:- 
 
-1.) Generate a List of all Appointment.
+<ol>
+<li>Generate a List of all Appointment.</li>
+<li>Generate a List of all Doctors.</li>
+<li>Add Doctors to List.</li>
+<li>Cancel Appointment.</li>
+<li>Update Appointment.</li>
+</ol>
 
-2.) Generate a List of all Doctors.
-
-3.) Add Doctors to List.
-
-4.) Cancel Appointment.
-
-5.) Update Appointment.
-
-For Login as Administrator You need User_id and Password :
+<b>For Login as Administrator You need User_id and Password</b>
 
 User_Name :- `Ram`
 
